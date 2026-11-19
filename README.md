@@ -90,52 +90,52 @@ The market structure exhibits a **bifurcated hybrid topology**:
 
 ### Turnkey RAG Platforms & Knowledge Assistants
 
-1. **[Dify](https://github.com/langgenius/dify)** [![GitHub stars](https://img.shields.io/github/stars/langgenius/dify?style=social&color=white)](https://github.com/langgenius/dify/stargazers)  
+1. **[Dify](https://github.com/langgenius/dify)** [![GitHub_Stars](https://img.shields.io/github/stars/langgenius/dify?style=social&color=white)](https://github.com/langgenius/dify/stargazers)  
    *The premier open-source LLM application development platform featuring visual workflow orchestration, comprehensive Knowledge Base document management, automated chunking, hybrid retrieval, and embeddable web chat widgets.*
 
-2. **[Open WebUI](https://github.com/open-webui/open-webui)** [![GitHub stars](https://img.shields.io/github/stars/open-webui/open-webui?style=social&color=white)](https://github.com/open-webui/open-webui/stargazers)  
+2. **[Open WebUI](https://github.com/open-webui/open-webui)** [![GitHub_Stars](https://img.shields.io/github/stars/open-webui/open-webui?style=social&color=white)](https://github.com/open-webui/open-webui/stargazers)  
    *Extensible, feature-rich self-hosted AI workspace with native Knowledge collection management, hybrid RAG document search, web scraping, and seamless integration with Ollama and OpenAI-compatible APIs.*
 
-3. **[RAGFlow](https://github.com/infiniflow/ragflow)** [![GitHub stars](https://img.shields.io/github/stars/infiniflow/ragflow?style=social&color=white)](https://github.com/infiniflow/ragflow/stargazers)  
+3. **[RAGFlow](https://github.com/infiniflow/ragflow)** [![GitHub_Stars](https://img.shields.io/github/stars/infiniflow/ragflow?style=social&color=white)](https://github.com/infiniflow/ragflow/stargazers)  
    *Cutting-edge open-source RAG engine based on deep document understanding, featuring layout-aware OCR parsing across PDFs/tables, grounded citations, and visual agentic QA workflows.*
 
-4. **[AnythingLLM](https://github.com/Mintplex-Labs/anything-llm)** [![GitHub stars](https://img.shields.io/github/stars/Mintplex-Labs/anything-llm?style=social&color=white)](https://github.com/Mintplex-Labs/anything-llm/stargazers)  
+4. **[AnythingLLM](https://github.com/Mintplex-Labs/anything-llm)** [![GitHub_Stars](https://img.shields.io/github/stars/Mintplex-Labs/anything-llm?style=social&color=white)](https://github.com/Mintplex-Labs/anything-llm/stargazers)  
    *All-in-one desktop and enterprise Docker AI knowledge workspace supporting multi-user role management, flexible workspace partitioning, drag-and-drop document indexing, and custom AI agents.*
 
-5. **[PrivateGPT](https://github.com/zylon-ai/private-gpt)** [![GitHub stars](https://img.shields.io/github/stars/zylon-ai/private-gpt?style=social&color=white)](https://github.com/zylon-ai/private-gpt/stargazers)  
+5. **[PrivateGPT](https://github.com/zylon-ai/private-gpt)** [![GitHub_Stars](https://img.shields.io/github/stars/zylon-ai/private-gpt?style=social&color=white)](https://github.com/zylon-ai/private-gpt/stargazers)  
    *Production-ready, 100% private, air-gapped document question-answering API and interface built with LlamaIndex, ensuring zero data leakage to external cloud services.*
 
-6. **[Quivr](https://github.com/The-Vibe-Company/quivr)** [![GitHub stars](https://img.shields.io/github/stars/The-Vibe-Company/quivr?style=social&color=white)](https://github.com/The-Vibe-Company/quivr/stargazers)  
+6. **[Quivr](https://github.com/The-Vibe-Company/quivr)** [![GitHub_Stars](https://img.shields.io/github/stars/The-Vibe-Company/quivr?style=social&color=white)](https://github.com/The-Vibe-Company/quivr/stargazers)  
    *Your generative AI "Second Brain" in the cloud or on-premise, engineered to index unstructured files, PDFs, and media to build customized generative AI knowledge assistants.*
 
-7. **[Khoj](https://github.com/khoj-ai/khoj)** [![GitHub stars](https://img.shields.io/github/stars/khoj-ai/khoj?style=social&color=white)](https://github.com/khoj-ai/khoj/stargazers)  
+7. **[Khoj](https://github.com/khoj-ai/khoj)** [![GitHub_Stars](https://img.shields.io/github/stars/khoj-ai/khoj?style=social&color=white)](https://github.com/khoj-ai/khoj/stargazers)  
    *An open-source, self-hostable AI personal second-brain that incrementally indexes Markdown, Obsidian notes, Notion, PDFs, and GitHub repos for grounded natural-language search and Q&A.*
 
-8. **[Onyx (formerly Danswer)](https://github.com/onyx-dot-app/onyx)** [![GitHub stars](https://img.shields.io/github/stars/onyx-dot-app/onyx?style=social&color=white)](https://github.com/onyx-dot-app/onyx/stargazers)  
+8. **[Onyx (formerly Danswer)](https://github.com/onyx-dot-app/onyx)** [![GitHub_Stars](https://img.shields.io/github/stars/onyx-dot-app/onyx?style=social&color=white)](https://github.com/onyx-dot-app/onyx/stargazers)  
    *Flagship open-source enterprise search and AI workplace copilot featuring 40+ native connectors (Google Drive, Slack, Confluence, Jira, GitHub), document-level RBAC access control, and inline source citations.*
 
-9. **[FastGPT](https://github.com/labring/FastGPT)** [![GitHub stars](https://img.shields.io/github/stars/labring/FastGPT?style=social&color=white)](https://github.com/labring/FastGPT/stargazers)  
+9. **[FastGPT](https://github.com/labring/FastGPT)** [![GitHub_Stars](https://img.shields.io/github/stars/labring/FastGPT?style=social&color=white)](https://github.com/labring/FastGPT/stargazers)  
    *Enterprise-grade knowledge-base QA platform providing robust data preprocessing, visual Flow node orchestration, hybrid vector/keyword search, and multi-channel API publishing.*
 
-10. **[Haystack](https://github.com/deepset-ai/haystack)** [![GitHub stars](https://img.shields.io/github/stars/deepset-ai/haystack?style=social&color=white)](https://github.com/deepset-ai/haystack/stargazers)  
+10. **[Haystack](https://github.com/deepset-ai/haystack)** [![GitHub_Stars](https://img.shields.io/github/stars/deepset-ai/haystack?style=social&color=white)](https://github.com/deepset-ai/haystack/stargazers)  
     *Mature open-source Python framework from deepset for architecting production-ready LLM pipelines, neural enterprise search, semantic retrieval, and multi-document question-answering systems.*
 
-11. **[Kotaemon](https://github.com/Cinnamon/kotaemon)** [![GitHub stars](https://img.shields.io/github/stars/Cinnamon/kotaemon?style=social&color=white)](https://github.com/Cinnamon/kotaemon/stargazers)  
+11. **[Kotaemon](https://github.com/Cinnamon/kotaemon)** [![GitHub_Stars](https://img.shields.io/github/stars/Cinnamon/kotaemon?style=social&color=white)](https://github.com/Cinnamon/kotaemon/stargazers)  
     *Clean, customizable RAG document QA web UI designed for both end users and developers, highlighted by multi-modal PDF inspection with color-coded citation previewing and hybrid retrieval pipelines.*
 
-12. **[MaxKB](https://github.com/1Panel-dev/MaxKB)** [![GitHub stars](https://img.shields.io/github/stars/1Panel-dev/MaxKB?style=social&color=white)](https://github.com/1Panel-dev/MaxKB/stargazers)  
+12. **[MaxKB](https://github.com/1Panel-dev/MaxKB)** [![GitHub_Stars](https://img.shields.io/github/stars/1Panel-dev/MaxKB?style=social&color=white)](https://github.com/1Panel-dev/MaxKB/stargazers)  
     *Ready-to-use open-source enterprise AI knowledge base system from 1Panel featuring visual workflow design, multi-model backend connectivity (`Ollama`, `DeepSeek`, `OpenAI`), and 1-click web chat widget embedding.*
 
-13. **[LocalGPT](https://github.com/PromtEngineer/localGPT)** [![GitHub stars](https://img.shields.io/github/stars/PromtEngineer/localGPT?style=social&color=white)](https://github.com/PromtEngineer/localGPT/stargazers)  
+13. **[LocalGPT](https://github.com/PromtEngineer/localGPT)** [![GitHub_Stars](https://img.shields.io/github/stars/PromtEngineer/localGPT?style=social&color=white)](https://github.com/PromtEngineer/localGPT/stargazers)  
     *Open-source local QA solution that allows users to query documents securely on GPU/CPU machines without an internet connection using Vicuna and Instructor embeddings.*
 
-14. **[DocsGPT](https://github.com/arc53/DocsGPT)** [![GitHub stars](https://img.shields.io/github/stars/arc53/DocsGPT?style=social&color=white)](https://github.com/arc53/DocsGPT/stargazers)  
+14. **[DocsGPT](https://github.com/arc53/DocsGPT)** [![GitHub_Stars](https://img.shields.io/github/stars/arc53/DocsGPT?style=social&color=white)](https://github.com/arc53/DocsGPT/stargazers)  
     *Popular open-source documentation Q&A assistant enabling development teams to index API docs, technical manuals, PDFs, and codebases for hallucination-resistant developer support.*
 
-15. **[Bisheng](https://github.com/dataelement/bisheng)** [![GitHub stars](https://img.shields.io/github/stars/dataelement/bisheng?style=social&color=white)](https://github.com/dataelement/bisheng/stargazers)  
+15. **[Bisheng](https://github.com/dataelement/bisheng)** [![GitHub_Stars](https://img.shields.io/github/stars/dataelement/bisheng?style=social&color=white)](https://github.com/dataelement/bisheng/stargazers)  
     *Enterprise-level open-source LLM dev platform with specialized capabilities in complex financial/legal document OCR, table layout recovery, knowledge workflows, and RBAC security.*
 
-16. **[Verba](https://github.com/weaviate/Verba)** [![GitHub stars](https://img.shields.io/github/stars/weaviate/Verba?style=social&color=white)](https://github.com/weaviate/Verba/stargazers)  
+16. **[Verba](https://github.com/weaviate/Verba)** [![GitHub_Stars](https://img.shields.io/github/stars/weaviate/Verba?style=social&color=white)](https://github.com/weaviate/Verba/stargazers)  
     *The Golden RAG Triad application by Weaviate providing a streamlined frontend for document chunking, hybrid vector search, and interactive source-highlighted QA.*
 
 ---
@@ -144,16 +144,16 @@ The market structure exhibits a **bifurcated hybrid topology**:
 
 *Specialized parsing and knowledge graph extraction engines that serve as the contextual foundation for state-of-the-art QA systems:*
 
-1. **[MinerU](https://github.com/opendatalab/MinerU)** [![GitHub stars](https://img.shields.io/github/stars/opendatalab/MinerU?style=social&color=white)](https://github.com/opendatalab/MinerU/stargazers)  
+1. **[MinerU](https://github.com/opendatalab/MinerU)** [![GitHub_Stars](https://img.shields.io/github/stars/opendatalab/MinerU?style=social&color=white)](https://github.com/opendatalab/MinerU/stargazers)  
    *High-precision document content extraction tool by OpenDataLab that extracts tables, formulas, equations, and complex layouts from scientific PDFs into clean, structured Markdown.*
 
-2. **[Docling](https://github.com/docling-project/docling)** [![GitHub stars](https://img.shields.io/github/stars/docling-project/docling?style=social&color=white)](https://github.com/docling-project/docling/stargazers)  
+2. **[Docling](https://github.com/docling-project/docling)** [![GitHub_Stars](https://img.shields.io/github/stars/docling-project/docling?style=social&color=white)](https://github.com/docling-project/docling/stargazers)  
    *IBM Research's open-source document parsing engine providing ultra-fast, layout-aware conversion of PDFs, DOCX, PPTX, and HTML into structured, chunk-ready formats for RAG applications.*
 
-3. **[LightRAG](https://github.com/HKUDS/LightRAG)** [![GitHub stars](https://img.shields.io/github/stars/HKUDS/LightRAG?style=social&color=white)](https://github.com/HKUDS/LightRAG/stargazers)  
+3. **[LightRAG](https://github.com/HKUDS/LightRAG)** [![GitHub_Stars](https://img.shields.io/github/stars/HKUDS/LightRAG?style=social&color=white)](https://github.com/HKUDS/LightRAG/stargazers)  
    *Lightweight, high-speed graph-augmented RAG framework offering dual-level entity/relation retrieval and an interactive graph visualizer at a fraction of traditional GraphRAG token costs.*
 
-4. **[Microsoft GraphRAG](https://github.com/microsoft/graphrag)** [![GitHub stars](https://img.shields.io/github/stars/microsoft/graphrag?style=social&color=white)](https://github.com/microsoft/graphrag/stargazers)  
+4. **[Microsoft GraphRAG](https://github.com/microsoft/graphrag)** [![GitHub_Stars](https://img.shields.io/github/stars/microsoft/graphrag?style=social&color=white)](https://github.com/microsoft/graphrag/stargazers)  
    *Modular graph-based RAG architecture from Microsoft Research that extracts entity knowledge graphs and generates hierarchical community summaries for holistic, multi-document corpus reasoning.*
 
 ---
@@ -162,9 +162,9 @@ The market structure exhibits a **bifurcated hybrid topology**:
 
 *High-performance vector engines and semantic rerankers essential for enterprise knowledge base search:*
 
-- **[Milvus](https://github.com/milvus-io/milvus)** [![GitHub stars](https://img.shields.io/github/stars/milvus-io/milvus?style=social&color=white)](https://github.com/milvus-io/milvus/stargazers) — Cloud-native open-source vector database built for massive-scale enterprise AI retrieval.
-- **[Qdrant](https://github.com/qdrant/qdrant)** [![GitHub stars](https://img.shields.io/github/stars/qdrant/qdrant?style=social&color=white)](https://github.com/qdrant/qdrant/stargazers) — High-performance Rust-based vector search engine with rich JSON payload filtering and hybrid retrieval.
-- **[Weaviate](https://github.com/weaviate/weaviate)** [![GitHub stars](https://img.shields.io/github/stars/weaviate/weaviate?style=social&color=white)](https://github.com/weaviate/weaviate/stargazers) — Modular AI-native vector database featuring out-of-the-box multimodal vectorization and hybrid keyword/dense search.
+- **[Milvus](https://github.com/milvus-io/milvus)** [![GitHub_Stars](https://img.shields.io/github/stars/milvus-io/milvus?style=social&color=white)](https://github.com/milvus-io/milvus/stargazers) — Cloud-native open-source vector database built for massive-scale enterprise AI retrieval.
+- **[Qdrant](https://github.com/qdrant/qdrant)** [![GitHub_Stars](https://img.shields.io/github/stars/qdrant/qdrant?style=social&color=white)](https://github.com/qdrant/qdrant/stargazers) — High-performance Rust-based vector search engine with rich JSON payload filtering and hybrid retrieval.
+- **[Weaviate](https://github.com/weaviate/weaviate)** [![GitHub_Stars](https://img.shields.io/github/stars/weaviate/weaviate?style=social&color=white)](https://github.com/weaviate/weaviate/stargazers) — Modular AI-native vector database featuring out-of-the-box multimodal vectorization and hybrid keyword/dense search.
 - **[FlagEmbedding / BGE-M3](https://github.com/FlagOpen/FlagEmbedding)** — Leading multilingual embedding model suite supporting dense, sparse (lexical), and multi-vector representations.
 - **[FlashRank](https://github.com/PrithivirajDamodaran/FlashRank)** — Ultra-lightweight, zero-dependency 4MB cross-encoder reranker for lightning-fast sub-millisecond RAG reranking.
 - **[Ragas](https://github.com/explodinggradients/ragas)** — Automated evaluation framework for measuring context precision, recall, and answer faithfulness in RAG pipelines.
@@ -177,7 +177,7 @@ Contributions are warmly welcomed! Help us keep this directory the most comprehe
 
 1. 🍴 **Fork the repository** on GitHub.
 2. 🌿 **Create a new branch** (`git checkout -b feature/add-new-project`).
-3. 📝 **Add your entry** to `README.md` keeping descriptions factual, concise, and adhering to existing formats (including star count badges and pricing details).
+3. 📝 **Add your entry** to `README.md` keeping descriptions factual, concise, and adhering to existing formats (including Stars_Count badges and pricing details).
 4. 🚀 **Commit your changes** (`git commit -m "Add AmazingProject to Open-Source section"`).
 5. 📬 **Open a Pull Request** with a brief summary of the project and why it belongs in this curated ecosystem.
 
