@@ -30,71 +30,31 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saashosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
 
+The global enterprise search and AI knowledge base market is valued at approximately $7.0B–$7.5B in 2026 (with the broader AI-enhanced knowledge management sector surging past $11.7B at a 40%+ CAGR). The market structure is moderately concentrated at the top—where hyperscalers and dominant workplace suites (Microsoft 365 Copilot, Google Cloud Vertex AI, Notion) command large enterprise distribution—while remaining highly fragmented across specialized vertical applications, modular RAG engines, and self-hosted developer frameworks.
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Glean](https://glean.com)**  
-
-  Enterprise AI work assistant and federated workplace search platform connecting 100+ SaaS apps with permissions-aware RAG, knowledge graphs, and custom AI agents.
-
-
-
-- **[Guru](https://getguru.com)**  
-
-  AI-powered company wiki, intranet, and internal knowledge management platform featuring verified knowledge cards, Slack/browser answers, and automated content freshness checks.
-
-
-
-- **[Hebbia](https://hebbia.com)**  
-
-  Enterprise AI knowledge and multi-document reasoning platform ("Matrix") engineered for finance, legal, and research teams to query and synthesize insights across thousands of documents.
-
-
-
-- **[Notion AI](https://notion.so)**  
-
-  All-in-one connected workspace and team wiki featuring AI Q&A across organizational pages, synced Slack/Google Drive connectors, and automated database knowledge extraction.
-
-
-
-- **[Slite AI](https://slite.com)**  
-
-  AI-powered team knowledge base offering verified wiki Q&A ("Ask"), automated stale-doc detection, and collaborative documentation workflows.
-
-
-
-- **[Ragie](https://ragie.ai)**  
-
-  Fully managed RAG-as-a-Service platform providing automated multi-format document ingestion, semantic chunking, entity extraction, and hybrid retrieval APIs for LLM QA apps.
-
-
-
-- **[Onyx Cloud (formerly Danswer Cloud)](https://onyx.app)**  
-
-  Managed cloud deployment of the open-source Onyx enterprise search and AI assistant platform with 40+ connectors, RBAC permissions, and custom assistants.
-
-
-
-- **[Dashworks / Dust.tt](https://dust.tt)**  
-
-  Cloud AI enterprise search and custom assistant workspaces connecting internal wikis, Notion, Confluence, Slack, and GitHub for cited team Q&A.
-
-
-
-- **[Mendable / CustomGPT.ai](https://customgpt.ai)**  
-
-  Hosted no-code AI knowledge base and documentation Q&A platforms enabling instant customer-support and internal knowledge bots with source citations.
+| Platform | Description | Starting Tier Pricing | Free Tier / Trial Limits | Company Scale (Valuation / Revenue) |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Notion AI](https://notion.so)** | All-in-one connected workspace and team wiki featuring AI Q&A across organizational pages, synced Slack/Google Drive connectors, and automated database knowledge extraction. | $10/user/month (Plus plan; Business with bundled AI at $20/user/month) | **Forever-free plan**: Unlimited pages/blocks for individuals, up to 10 guest collaborators, 7-day page history. | $11.0B valuation (~$600M+ ARR) |
+| **[Glean](https://glean.com)** | Enterprise AI work assistant and federated workplace search platform connecting 100+ SaaS apps with permissions-aware RAG, knowledge graphs, and custom AI agents. | $35/user/month (minimum commitment of 100 seats, ~$42,000–$50,000/year contract floor) | **Sales-gated POC trial only**: No permanent free tier; proofs-of-concept are scoped for 100+ seat enterprise deployments upon sales qualification. | $7.2B valuation (~$300M ARR) |
+| **[Hebbia](https://hebbia.com)** | Enterprise AI knowledge and multi-document reasoning platform ("Matrix") engineered for finance, legal, and research teams to query and synthesize insights across thousands of documents. | $3,000/seat/year (~$250/seat/month, annual commitment floor) | **Sales-gated pilot only**: No permanent free tier; bespoke pilot trials are scheduled strictly via enterprise sales engagement. | $700M valuation (~$30M–$48M ARR) |
+| **[Guru](https://getguru.com)** | AI-powered company wiki, intranet, and internal knowledge management platform featuring verified knowledge cards, Slack/browser answers, and automated content freshness checks. | $25/user/month (10-seat minimum, $250/month entry floor) | **30-day free trial**: No permanent free tier; 30-day trial provides full access to AI search and knowledge verification workflows. | ~$600M valuation (~$50M–$63M ARR) |
+| **[Dust.tt](https://dust.tt)** | Cloud AI enterprise search and custom assistant workspaces connecting internal wikis, Notion, Confluence, Slack, and GitHub for cited team Q&A. | $29/seat/month (Pro plan) | **14-day free trial**: Lifetime allotment of 500 trial credits during evaluation; paid plans start after trial expires. | ~$150M–$250M valuation (~$7M ARR, $60M total funding) |
+| **[Slite AI](https://slite.com)** | AI-powered team knowledge base offering verified wiki Q&A ("Ask"), automated stale-doc detection, and collaborative documentation workflows. | $10/member/month (Basic plan, billed annually) | **14-day free trial**: No permanent free tier; 14-day trial includes 500 AI agent credits and full doc verification features without upfront credit card. | ~$40M–$50M est. valuation (~$4M–$5M ARR, $15.5M total funding) |
+| **[Ragie](https://ragie.ai)** | Fully managed RAG-as-a-Service platform providing automated multi-format document ingestion, semantic chunking, entity extraction, and hybrid retrieval APIs for LLM QA apps. | $500/month (Pro plan) | **Forever-free tier**: Up to 500 indexed documents, 10 requests per minute (RPM), and community API support. | ~$25M–$30M est. seed valuation ($5.5M seed round led by Craft Ventures) |
+| **[Onyx Cloud](https://onyx.app)** | Managed cloud deployment of the open-source Onyx enterprise search and AI assistant platform with 40+ connectors, RBAC permissions, and custom assistants. | $20/user/month (Business Cloud plan, billed annually) | **14-day free trial**: No credit card required upfront for 14-day cloud trial; also offers an open-source MIT self-hosted tier with no software limits. | ~$20M–$30M est. seed valuation ($10M seed round backed by Khosla Ventures & YC) |
+| **[CustomGPT.ai](https://customgpt.ai)** | Hosted no-code AI knowledge base and documentation Q&A platforms enabling instant customer-support and internal knowledge bots with source citations. | $99/month (Standard plan, $89/mo billed annually) | **7-day free trial**: No permanent free tier; 7-day trial provides access to Standard plan features (10 custom AI agents, 1,000 queries/month). | ~$15M–$20M est. valuation (~$2.6M ARR, bootstrapped/partner-led) |
+| **[Mendable](https://mendable.ai)** | Developer-centric RAG and knowledge base Q&A platform turning documentation, developer portals, and websites into citation-backed chat agents. | Custom enterprise quotes (developer usage plans start from pay-as-you-go tiers) | **Forever-free tier**: 500 message credits per month, standard vector search, community support, and web crawler ingestion. | ~$5M–$10M est. seed valuation (~$770K ARR) |
+| **[Dashworks](https://dashworks.ai)** | AI workplace search engine that indexes internal company documentation, Slack messages, Notion, and Google Drive for accurate team Q&A. | $12/seat/month (Team plan, $10/seat/month billed annually) | **14-day free trial**: No credit card required upfront for 14 days; includes unlimited searches and standard app connectors. | ~$15M–$25M est. valuation (~$1M ARR, $10M–$14.5M total funding) |
 
 
 
